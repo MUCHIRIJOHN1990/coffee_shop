@@ -15,7 +15,6 @@ This project is a Coffee Order Management System that allows customers to place 
     - [Example of Creating an Order](#example-of-creating-an-order)
   - [Running Tests](#running-tests)
   - [Contributing](#contributing)
-  - [License](#license)
 
 ## Project Structure
 
@@ -141,9 +140,3 @@ Contributions are welcome! To contribute:
 4. Commit your changes (`git commit -m "feat: description of the feature"`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
-
-Please make sure to follow the [Angular Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/) guidelines when making commits.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
